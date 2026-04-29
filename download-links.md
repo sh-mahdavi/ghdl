@@ -1,14 +1,14 @@
-## 📦 Download links — `2026-04-29_18-35-44`
+## 📦 Download links — `2026-04-29_18-43-01`
 
-Branch: `dl/2026-04-29_18-35-44`
-Triggered by commit: `178f0c84b578c955c47a04c062e87e50afa82194`
+Branch: `dl/2026-04-29_18-43-01`
+Triggered by commit: `57f4c15bae854ed3618841116190bf5c4e1ecda0`
 
-- [`Syrian_Democratic_Forces`](https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_18-35-44/Syrian_Democratic_Forces)
+- [`index.html`](https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_18-43-01/index.html)
   ```
-  https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_18-35-44/Syrian_Democratic_Forces
+  https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_18-43-01/index.html
   ```
 
 ### SHA-256 checksums
 ```
-https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_18-35-44/sha256sums.txt
+https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_18-43-01/sha256sums.txt
 ```
