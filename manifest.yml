@@ -1,0 +1,6 @@
+source_branch: master
+trigger_commit: 7b54e1786a2be95984954716fe619e573b29ff05
+commit_message: |
+  https://t3.nhentai.net/galleries/3912378/thumb.jpg
+files:
+  - thumb.jpg
