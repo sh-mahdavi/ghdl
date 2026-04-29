@@ -1,14 +1,14 @@
-## 📦 Download links — `2026-04-28_00-40-29`
+## 📦 Download links — `2026-04-29_07-04-07`
 
-Branch: `dl/2026-04-28_00-40-29`
-Triggered by commit: `8fd2ba0d48467797e6284da5a55f44422d94e0ba`
+Branch: `dl/2026-04-29_07-04-07`
+Triggered by commit: `db9dd516385d67f71aed5da98254685bc027ebd5`
 
-- [`v2rayN-linux-64.deb`](https://raw.githubusercontent.com/Emadshirzad/ghdl/dl/2026-04-28_00-40-29/v2rayN-linux-64.deb)
+- [`The_Art_Of_War.pdf`](https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_07-04-07/The_Art_Of_War.pdf)
   ```
-  https://raw.githubusercontent.com/Emadshirzad/ghdl/dl/2026-04-28_00-40-29/v2rayN-linux-64.deb
+  https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_07-04-07/The_Art_Of_War.pdf
   ```
 
 ### SHA-256 checksums
 ```
-https://raw.githubusercontent.com/Emadshirzad/ghdl/dl/2026-04-28_00-40-29/sha256sums.txt
+https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_07-04-07/sha256sums.txt
 ```
