@@ -1,14 +1,14 @@
-## 📦 Download links — `2026-04-29_19-57-01`
+## 📦 Download links — `2026-04-29_20-00-27`
 
-Branch: `dl/2026-04-29_19-57-01`
-Triggered by commit: `e5c6928fa30a20e5072ffb7ad63d0c1659b5f5c9`
+Branch: `dl/2026-04-29_20-00-27`
+Triggered by commit: `cae239726bc0abc5c0e8425d008882a1d308cd0f`
 
-- [`index.html`](https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_19-57-01/index.html)
+- [`index.html`](https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_20-00-27/index.html)
   ```
-  https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_19-57-01/index.html
+  https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_20-00-27/index.html
   ```
 
 ### SHA-256 checksums
 ```
-https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_19-57-01/sha256sums.txt
+https://raw.githubusercontent.com/sh-mahdavi/ghdl/dl/2026-04-29_20-00-27/sha256sums.txt
 ```
